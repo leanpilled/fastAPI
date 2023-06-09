@@ -1,0 +1,1763 @@
+[
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "importPath": "app.bookings.models",
+        "description": "app.bookings.models",
+        "isExtraImport": true,
+        "detail": "app.bookings.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "importPath": "app.bookings.models",
+        "description": "app.bookings.models",
+        "isExtraImport": true,
+        "detail": "app.bookings.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "importPath": "app.bookings.models",
+        "description": "app.bookings.models",
+        "isExtraImport": true,
+        "detail": "app.bookings.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "importPath": "app.bookings.models",
+        "description": "app.bookings.models",
+        "isExtraImport": true,
+        "detail": "app.bookings.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseDAO",
+        "importPath": "app.dao.base",
+        "description": "app.dao.base",
+        "isExtraImport": true,
+        "detail": "app.dao.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseDAO",
+        "importPath": "app.dao.base",
+        "description": "app.dao.base",
+        "isExtraImport": true,
+        "detail": "app.dao.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseDAO",
+        "importPath": "app.dao.base",
+        "description": "app.dao.base",
+        "isExtraImport": true,
+        "detail": "app.dao.base",
+        "documentation": {}
+    },
+    {
+        "label": "BaseDAO",
+        "importPath": "app.dao.base",
+        "description": "app.dao.base",
+        "isExtraImport": true,
+        "detail": "app.dao.base",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "and_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "or_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Computed",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "and_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "or_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "and_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "or_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "importPath": "app.hotels.rooms.models",
+        "description": "app.hotels.rooms.models",
+        "isExtraImport": true,
+        "detail": "app.hotels.rooms.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "importPath": "app.hotels.rooms.models",
+        "description": "app.hotels.rooms.models",
+        "isExtraImport": true,
+        "detail": "app.hotels.rooms.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "importPath": "app.hotels.rooms.models",
+        "description": "app.hotels.rooms.models",
+        "isExtraImport": true,
+        "detail": "app.hotels.rooms.models",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BookingDAO",
+        "importPath": "app.bookings.dao",
+        "description": "app.bookings.dao",
+        "isExtraImport": true,
+        "detail": "app.bookings.dao",
+        "documentation": {}
+    },
+    {
+        "label": "SBooking",
+        "importPath": "app.bookings.schemas",
+        "description": "app.bookings.schemas",
+        "isExtraImport": true,
+        "detail": "app.bookings.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.users.dependencies",
+        "description": "app.users.dependencies",
+        "isExtraImport": true,
+        "detail": "app.users.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.users.dependencies",
+        "description": "app.users.dependencies",
+        "isExtraImport": true,
+        "detail": "app.users.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.users.models",
+        "description": "app.users.models",
+        "isExtraImport": true,
+        "detail": "app.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.users.models",
+        "description": "app.users.models",
+        "isExtraImport": true,
+        "detail": "app.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.users.models",
+        "description": "app.users.models",
+        "isExtraImport": true,
+        "detail": "app.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.users.models",
+        "description": "app.users.models",
+        "isExtraImport": true,
+        "detail": "app.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "RoomCannotBeBooked",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IncorrectTokenFormatException",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAbsentException",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TokenExpiredException",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserIsNotPresentException",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IncorrectEmailOrPassword",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserAlreadeExistsException",
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "isExtraImport": true,
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Hotels",
+        "importPath": "app.hotels.models",
+        "description": "app.hotels.models",
+        "isExtraImport": true,
+        "detail": "app.hotels.models",
+        "documentation": {}
+    },
+    {
+        "label": "Hotels",
+        "importPath": "app.hotels.models",
+        "description": "app.hotels.models",
+        "isExtraImport": true,
+        "detail": "app.hotels.models",
+        "documentation": {}
+    },
+    {
+        "label": "Hotels",
+        "importPath": "app.hotels.models",
+        "description": "app.hotels.models",
+        "isExtraImport": true,
+        "detail": "app.hotels.models",
+        "documentation": {}
+    },
+    {
+        "label": "RoomsDAO",
+        "importPath": "app.hotels.rooms.dao",
+        "description": "app.hotels.rooms.dao",
+        "isExtraImport": true,
+        "detail": "app.hotels.rooms.dao",
+        "documentation": {}
+    },
+    {
+        "label": "HotelsDAO",
+        "importPath": "app.hotels.dao",
+        "description": "app.hotels.dao",
+        "isExtraImport": true,
+        "detail": "app.hotels.dao",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "fastapi_cache.decorator",
+        "description": "fastapi_cache.decorator",
+        "isExtraImport": true,
+        "detail": "fastapi_cache.decorator",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "fastapi_cache.decorator",
+        "description": "fastapi_cache.decorator",
+        "isExtraImport": true,
+        "detail": "fastapi_cache.decorator",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "importPath": "app.tasks.tasks",
+        "description": "app.tasks.tasks",
+        "isExtraImport": true,
+        "detail": "app.tasks.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "dirname",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "abspath",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "importPath": "app.rooms.models",
+        "description": "app.rooms.models",
+        "isExtraImport": true,
+        "detail": "app.rooms.models",
+        "documentation": {}
+    },
+    {
+        "label": "Jinja2Templates",
+        "importPath": "fastapi.templating",
+        "description": "fastapi.templating",
+        "isExtraImport": true,
+        "detail": "fastapi.templating",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_hotels",
+        "importPath": "app.hotels.router",
+        "description": "app.hotels.router",
+        "isExtraImport": true,
+        "detail": "app.hotels.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.hotels.router",
+        "description": "app.hotels.router",
+        "isExtraImport": true,
+        "detail": "app.hotels.router",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "celery",
+        "importPath": "app.tasks.celery",
+        "description": "app.tasks.celery",
+        "isExtraImport": true,
+        "detail": "app.tasks.celery",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "UsersDAO",
+        "importPath": "app.users.dao",
+        "description": "app.users.dao",
+        "isExtraImport": true,
+        "detail": "app.users.dao",
+        "documentation": {}
+    },
+    {
+        "label": "UsersDAO",
+        "importPath": "app.users.dao",
+        "description": "app.users.dao",
+        "isExtraImport": true,
+        "detail": "app.users.dao",
+        "documentation": {}
+    },
+    {
+        "label": "UsersDAO",
+        "importPath": "app.users.dao",
+        "description": "app.users.dao",
+        "isExtraImport": true,
+        "detail": "app.users.dao",
+        "documentation": {}
+    },
+    {
+        "label": "SUserAuth",
+        "importPath": "app.users.schemas",
+        "description": "app.users.schemas",
+        "isExtraImport": true,
+        "detail": "app.users.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "importPath": "app.users.auth",
+        "description": "app.users.auth",
+        "isExtraImport": true,
+        "detail": "app.users.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.users.auth",
+        "description": "app.users.auth",
+        "isExtraImport": true,
+        "detail": "app.users.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "importPath": "app.users.auth",
+        "description": "app.users.auth",
+        "isExtraImport": true,
+        "detail": "app.users.auth",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPICache",
+        "importPath": "fastapi_cache",
+        "description": "fastapi_cache",
+        "isExtraImport": true,
+        "detail": "fastapi_cache",
+        "documentation": {}
+    },
+    {
+        "label": "RedisBackend",
+        "importPath": "fastapi_cache.backends.redis",
+        "description": "fastapi_cache.backends.redis",
+        "isExtraImport": true,
+        "detail": "fastapi_cache.backends.redis",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "importPath": "redis",
+        "description": "redis",
+        "isExtraImport": true,
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.users.router",
+        "description": "app.users.router",
+        "isExtraImport": true,
+        "detail": "app.users.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.bookings.router",
+        "description": "app.bookings.router",
+        "isExtraImport": true,
+        "detail": "app.bookings.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.hotels.rooms.router",
+        "description": "app.hotels.rooms.router",
+        "isExtraImport": true,
+        "detail": "app.hotels.rooms.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.pages.router",
+        "description": "app.pages.router",
+        "isExtraImport": true,
+        "detail": "app.pages.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.images.router",
+        "description": "app.images.router",
+        "isExtraImport": true,
+        "detail": "app.images.router",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "BookingDAO",
+        "kind": 6,
+        "importPath": "app.bookings.dao",
+        "description": "app.bookings.dao",
+        "peekOfCode": "class BookingDAO(BaseDAO):\n    model = Bookings\n    @classmethod\n    async def add(cls, user_id: int, room_id: int, date_from: date, date_to: date):\n        async with async_session_maker() as session:\n            booked_rooms = select(Bookings).where(\n                and_(\n                    Bookings.room_id == room_id,\n                    or_(\n                        and_(",
+        "detail": "app.bookings.dao",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "kind": 6,
+        "importPath": "app.bookings.models",
+        "description": "app.bookings.models",
+        "peekOfCode": "class Bookings(Base):\n    __tablename__ = \"bookings\"\n    id = Column(Integer, primary_key=True)\n    room_id = Column(Integer, ForeignKey(\"rooms.id\"))\n    user_id = Column(Integer, ForeignKey(\"users.id\"))\n    date_from = Column(Date, nullable=False)\n    date_to = Column(Date, nullable=False) \n    price = Column(Integer, nullable=False)\n    total_cost = Column(Integer, Computed(\"(date_to - date_from) * price\"))\n    total_days = Column(Integer, Computed(\"date_to - date_from\"))",
+        "detail": "app.bookings.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.bookings.router",
+        "description": "app.bookings.router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/bookings\",\n    tags=[\"Bookings\"]\n)\n# @router.get(\"\")\n# async def get_bookings(user: Users = Depends(get_current_user)) -> list[SBooking]:\n#     return await BookingDAO.find_all(user_id=user.id)\n@router.post(\"\")\nasync def add_booking(\n    room_id: int, date_from: date, date_to: date,",
+        "detail": "app.bookings.router",
+        "documentation": {}
+    },
+    {
+        "label": "SBooking",
+        "kind": 6,
+        "importPath": "app.bookings.schemas",
+        "description": "app.bookings.schemas",
+        "peekOfCode": "class SBooking(BaseModel):\n    id: int\n    room_id: int\n    user_id: int\n    date_from: date\n    date_to: date\n    price: int\n    total_cost: int\n    total_days: int\n    class Config:",
+        "detail": "app.bookings.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BaseDAO",
+        "kind": 6,
+        "importPath": "app.dao.base",
+        "description": "app.dao.base",
+        "peekOfCode": "class BaseDAO:\n    model = None\n    @classmethod\n    async def find_by_id(cls, model_id: int):\n        async with async_session_maker() as session:\n            query = select(cls.model).filter_by(id=model_id)\n            result = await session.execute(query)\n            return result.scalar_one_or_none()\n    @classmethod\n    async def find_one_or_none(cls, **filter_by):",
+        "detail": "app.dao.base",
+        "documentation": {}
+    },
+    {
+        "label": "RoomsDAO",
+        "kind": 6,
+        "importPath": "app.hotels.rooms.dao",
+        "description": "app.hotels.rooms.dao",
+        "peekOfCode": "class RoomsDAO(BaseDAO):\n    model = Hotels\n    @classmethod\n    async def get_rooms(cls, hotel_id:int, date_from: date, date_to: date):\n        async with async_session_maker() as session:\n            booked_rooms = select(Bookings).where(\n                    or_(\n                        and_(\n                            Bookings.date_from >= date_from,\n                            Bookings.date_from <= date_to",
+        "detail": "app.hotels.rooms.dao",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "kind": 6,
+        "importPath": "app.hotels.rooms.models",
+        "description": "app.hotels.rooms.models",
+        "peekOfCode": "class Rooms(Base):\n    __tablename__ = \"rooms\"\n    id = Column(Integer, primary_key=True)\n    hotel_id = Column(Integer, ForeignKey(\"hotels.id\"))\n    name = Column(String, nullable=False)\n    description = Column(String)\n    price = Column(Integer, nullable=False)\n    services = Column(JSON)\n    quantity = Column(Integer, nullable=False)\n    image_id = Column(Integer)",
+        "detail": "app.hotels.rooms.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.hotels.rooms.router",
+        "description": "app.hotels.rooms.router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"\",\n    tags=[\"Rooms\"]\n)\n@router.get(\"/hotels/{hotel_id}/rooms\")\nasync def get_rooms(hotel_id:int, date_from: date, date_to: date):\n    return await RoomsDAO.get_rooms(hotel_id, date_from, date_to)",
+        "detail": "app.hotels.rooms.router",
+        "documentation": {}
+    },
+    {
+        "label": "SRoom",
+        "kind": 6,
+        "importPath": "app.hotels.rooms.schemas",
+        "description": "app.hotels.rooms.schemas",
+        "peekOfCode": "class SRoom(BaseModel):\n    id: int\n    hotel_id: int\n    name: str\n    description: str\n    price: int\n    services: JSON\n    quantity: int\n    image_id: int\n    class Config:",
+        "detail": "app.hotels.rooms.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "HotelsDAO",
+        "kind": 6,
+        "importPath": "app.hotels.dao",
+        "description": "app.hotels.dao",
+        "peekOfCode": "class HotelsDAO(BaseDAO):\n    model = Hotels\n    @classmethod\n    async def get_all_hotels(cls, location: str, date_from: date, date_to: date):\n        async with async_session_maker() as session:\n            \"\"\"with booked_rooms as (\n                select * from bookings\n                where \n                (date_from >= '2023-05-13' and date_from <= '2023-07-20') or\n                (date_from <= '2023-05-13' and date_to > '2023-05-13')",
+        "detail": "app.hotels.dao",
+        "documentation": {}
+    },
+    {
+        "label": "Hotels",
+        "kind": 6,
+        "importPath": "app.hotels.models",
+        "description": "app.hotels.models",
+        "peekOfCode": "class Hotels(Base):\n    __tablename__ = \"hotels\"\n    id = Column(Integer, primary_key=True)\n    name = Column(String, nullable=False)\n    location = Column(String, nullable=False)\n    services = Column(JSON)\n    rooms_quantity = Column(Integer, nullable=False)\n    image_id = Column(Integer)",
+        "detail": "app.hotels.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.hotels.router",
+        "description": "app.hotels.router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/hotels\",\n    tags=[\"Hotels\"]\n)\n@router.get(\"/{location}\")\n@cache(expire=60)\nasync def get_all_hotels(location: str, date_from: date, date_to: date):\n    return await HotelsDAO.get_all_hotels(location, date_from, date_to)\n@router.get(\"/id/{hotel_id}\")\nasync def get_hotel(hotel_id: int):",
+        "detail": "app.hotels.router",
+        "documentation": {}
+    },
+    {
+        "label": "SHotel",
+        "kind": 6,
+        "importPath": "app.hotels.schemas",
+        "description": "app.hotels.schemas",
+        "peekOfCode": "class SHotel(BaseModel):\n    id: int\n    name: str\n    location: str\n    services: JSON\n    rooms_quantity: int\n    image_id: int\n    class Config:\n        orm_mode = True",
+        "detail": "app.hotels.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.images.router",
+        "description": "app.images.router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/images\",\n    tags=[\"images\"]\n)\n@router.post(\"/hotels\")\nasync def add_hotel_image(name: int, file: UploadFile):\n    img_path = f\"app/static/images/{name}.webp\"\n    with open(img_path, \"wb+\") as file_object:\n        shutil.copyfileobj(file.file, file_object)\n    resize_image.delay(img_path)",
+        "detail": "app.images.router",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "description": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('hotels',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(), nullable=False),\n    sa.Column('location', sa.String(), nullable=False),\n    sa.Column('services', sa.JSON(), nullable=True),\n    sa.Column('rooms_quantity', sa.Integer(), nullable=False),\n    sa.Column('image_id', sa.Integer(), nullable=True),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "description": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('bookings')\n    op.drop_table('rooms')\n    op.drop_table('users')\n    op.drop_table('hotels')\n    # ### end Alembic commands ###",
+        "detail": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "description": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "peekOfCode": "revision = '3b0a424cc1e1'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('hotels',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(), nullable=False),\n    sa.Column('location', sa.String(), nullable=False),",
+        "detail": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "description": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('hotels',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(), nullable=False),\n    sa.Column('location', sa.String(), nullable=False),\n    sa.Column('services', sa.JSON(), nullable=True),",
+        "detail": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "description": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('hotels',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(), nullable=False),\n    sa.Column('location', sa.String(), nullable=False),\n    sa.Column('services', sa.JSON(), nullable=True),\n    sa.Column('rooms_quantity', sa.Integer(), nullable=False),",
+        "detail": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "description": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('hotels',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(), nullable=False),\n    sa.Column('location', sa.String(), nullable=False),\n    sa.Column('services', sa.JSON(), nullable=True),\n    sa.Column('rooms_quantity', sa.Integer(), nullable=False),\n    sa.Column('image_id', sa.Integer(), nullable=True),",
+        "detail": "app.migrations.versions.3b0a424cc1e1_allmodels_migration",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "app.migrations.env",
+        "description": "app.migrations.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "app.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "app.migrations.env",
+        "description": "app.migrations.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "app.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "app.migrations.env",
+        "description": "app.migrations.env",
+        "peekOfCode": "config = context.config\nconfig.set_main_option(\"sqlalchemy.url\", f\"{settings.DATABASE_URL}?async_fallback=True\")\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata",
+        "detail": "app.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "app.migrations.env",
+        "description": "app.migrations.env",
+        "peekOfCode": "target_metadata = Base.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "app.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.pages.router",
+        "description": "app.pages.router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/pages\",\n    tags=[\"Frontend\"]\n)\ntemplates = Jinja2Templates(directory=\"app/templates\")\n@router.get(\"/hotels\")\nasync def get_hotels_page(request: Request, hotels=Depends(get_all_hotels)):\n    return templates.TemplateResponse(\n        name=\"hotels.html\", \n        context={\"request\": request, \"hotels\": hotels}",
+        "detail": "app.pages.router",
+        "documentation": {}
+    },
+    {
+        "label": "templates",
+        "kind": 5,
+        "importPath": "app.pages.router",
+        "description": "app.pages.router",
+        "peekOfCode": "templates = Jinja2Templates(directory=\"app/templates\")\n@router.get(\"/hotels\")\nasync def get_hotels_page(request: Request, hotels=Depends(get_all_hotels)):\n    return templates.TemplateResponse(\n        name=\"hotels.html\", \n        context={\"request\": request, \"hotels\": hotels}\n    )",
+        "detail": "app.pages.router",
+        "documentation": {}
+    },
+    {
+        "label": "celery",
+        "kind": 5,
+        "importPath": "app.tasks.celery",
+        "description": "app.tasks.celery",
+        "peekOfCode": "celery = Celery(\n    \"tasks\",\n    broker=\"redis://localhost\",\n    include=[\"app.tasks.tasks\"]\n)",
+        "detail": "app.tasks.celery",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "app.tasks.tasks",
+        "description": "app.tasks.tasks",
+        "peekOfCode": "def resize_image(image_path: str):\n    img_path = Path(image_path)\n    img = Image.open(img_path)\n    img_1000_500 = img.resize((1000, 500))\n    img_200_100 = img.resize((200, 100))\n    img_1000_500.save(f\"app/static/images/1000_500_{img_path.name}\")\n    img_200_100.save(f\"app/static/images/200_100_{img_path.name}\")",
+        "detail": "app.tasks.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "app.users.auth",
+        "description": "app.users.auth",
+        "peekOfCode": "def verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef create_access_token(data: dict) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=30)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, settings.SECRET_KEY, settings.ALGORITHM)\n    return encoded_jwt",
+        "detail": "app.users.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "app.users.auth",
+        "description": "app.users.auth",
+        "peekOfCode": "def get_password_hash(password):\n    return pwd_context.hash(password)\ndef create_access_token(data: dict) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=30)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, settings.SECRET_KEY, settings.ALGORITHM)\n    return encoded_jwt\nasync def authenticate_user(email: EmailStr, password: str):\n    user = await UsersDAO.find_one_or_none(email=email)",
+        "detail": "app.users.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "app.users.auth",
+        "description": "app.users.auth",
+        "peekOfCode": "def create_access_token(data: dict) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=30)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, settings.SECRET_KEY, settings.ALGORITHM)\n    return encoded_jwt\nasync def authenticate_user(email: EmailStr, password: str):\n    user = await UsersDAO.find_one_or_none(email=email)\n    if not (user and verify_password(password, user.hashed_password)):\n        return None",
+        "detail": "app.users.auth",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.users.auth",
+        "description": "app.users.auth",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef create_access_token(data: dict) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=30)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, settings.SECRET_KEY, settings.ALGORITHM)",
+        "detail": "app.users.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UsersDAO",
+        "kind": 6,
+        "importPath": "app.users.dao",
+        "description": "app.users.dao",
+        "peekOfCode": "class UsersDAO(BaseDAO):\n    model = Users",
+        "detail": "app.users.dao",
+        "documentation": {}
+    },
+    {
+        "label": "get_token",
+        "kind": 2,
+        "importPath": "app.users.dependencies",
+        "description": "app.users.dependencies",
+        "peekOfCode": "def get_token(request: Request):\n    token = request.cookies.get(\"booking_access_token\")\n    if not token:\n        raise TokenAbsentException\n    return token\nasync def get_current_user(token: str = Depends(get_token)):\n    try:\n        payload = jwt.decode(token, settings.SECRET_KEY, settings.ALGORITHM)\n    except JWTError:\n        raise IncorrectTokenFormatException",
+        "detail": "app.users.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "app.users.models",
+        "description": "app.users.models",
+        "peekOfCode": "class Users(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True)\n    email = Column(String, nullable=False)\n    hashed_password = Column(String, nullable=False)",
+        "detail": "app.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.users.router",
+        "description": "app.users.router",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/auth\",\n    tags=[\"Auth & users\"]\n)\n@router.post(\"/register\")\nasync def register_user(user_data: SUserAuth):\n    existing_user = await UsersDAO.find_one_or_none(email=user_data.email)\n    if existing_user:\n        raise UserAlreadeExistsException\n    hashed_password = get_password_hash(user_data.password)",
+        "detail": "app.users.router",
+        "documentation": {}
+    },
+    {
+        "label": "SUserAuth",
+        "kind": 6,
+        "importPath": "app.users.schemas",
+        "description": "app.users.schemas",
+        "peekOfCode": "class SUserAuth(BaseModel):\n    email: EmailStr\n    password: str",
+        "detail": "app.users.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    DB_HOST:str\n    DB_PORT:int\n    DB_USER:str\n    DB_PASS:str\n    DB_NAME:str\n    SECRET_KEY:str\n    ALGORITHM:str\n    @property\n    def DATABASE_URL(self):",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "engine = create_async_engine(settings.DATABASE_URL)\nasync_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nclass Base(DeclarativeBase):\n    pass",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "async_session_maker",
+        "kind": 5,
+        "importPath": "app.db",
+        "description": "app.db",
+        "peekOfCode": "async_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)\nclass Base(DeclarativeBase):\n    pass",
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "UserAlreadeExistsException",
+        "kind": 5,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "UserAlreadeExistsException = HTTPException(\n    status_code=status.HTTP_409_CONFLICT,\n    detail=\"User alreade exists\"\n)\nIncorrectEmailOrPassword = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Incorrect email or password\"\n)\nTokenExpiredException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IncorrectEmailOrPassword",
+        "kind": 5,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "IncorrectEmailOrPassword = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Incorrect email or password\"\n)\nTokenExpiredException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Token expired\"\n)\nTokenAbsentException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TokenExpiredException",
+        "kind": 5,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "TokenExpiredException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Token expired\"\n)\nTokenAbsentException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Token absent\"\n)\nIncorrectTokenFormatException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAbsentException",
+        "kind": 5,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "TokenAbsentException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Token absent\"\n)\nIncorrectTokenFormatException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Incorrect token format\"\n)\nUserIsNotPresentException = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED)\nRoomCannotBeBooked = HTTPException(",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IncorrectTokenFormatException",
+        "kind": 5,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "IncorrectTokenFormatException = HTTPException(\n    status_code=status.HTTP_401_UNAUTHORIZED,\n    detail=\"Incorrect token format\"\n)\nUserIsNotPresentException = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED)\nRoomCannotBeBooked = HTTPException(\n    status_code=status.HTTP_409_CONFLICT,\n    detail=\"Room cannot be booked\"\n)",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserIsNotPresentException",
+        "kind": 5,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "UserIsNotPresentException = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED)\nRoomCannotBeBooked = HTTPException(\n    status_code=status.HTTP_409_CONFLICT,\n    detail=\"Room cannot be booked\"\n)",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "RoomCannotBeBooked",
+        "kind": 5,
+        "importPath": "app.exceptions",
+        "description": "app.exceptions",
+        "peekOfCode": "RoomCannotBeBooked = HTTPException(\n    status_code=status.HTTP_409_CONFLICT,\n    detail=\"Room cannot be booked\"\n)",
+        "detail": "app.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI()\napp.mount(\"/static\", StaticFiles(directory=\"app/static\"), \"static\")\napp.include_router(router_users)\napp.include_router(router_bookings)\napp.include_router(router_hotels)\napp.include_router(router_rooms)\napp.include_router(router_pages)\napp.include_router(router_images)\norigins = [\n    \"http://localhost:3000\",",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "origins = [\n    \"http://localhost:3000\",\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "importlib_load_entry_point",
+        "kind": 2,
+        "importPath": "venv.Scripts.jose-script",
+        "description": "venv.Scripts.jose-script",
+        "peekOfCode": "def importlib_load_entry_point(spec, group, name):\n    dist_name, _, _ = spec.partition('==')\n    matches = (\n        entry_point\n        for entry_point in distribution(dist_name).entry_points\n        if entry_point.group == group and entry_point.name == name\n    )\n    return next(matches).load()\nglobals().setdefault('load_entry_point', importlib_load_entry_point)\nif __name__ == '__main__':",
+        "detail": "venv.Scripts.jose-script",
+        "documentation": {}
+    },
+    {
+        "label": "__requires__",
+        "kind": 5,
+        "importPath": "venv.Scripts.jose-script",
+        "description": "venv.Scripts.jose-script",
+        "peekOfCode": "__requires__ = 'jose==1.0.0'\ntry:\n    from importlib.metadata import distribution\nexcept ImportError:\n    try:\n        from importlib_metadata import distribution\n    except ImportError:\n        from pkg_resources import load_entry_point\ndef importlib_load_entry_point(spec, group, name):\n    dist_name, _, _ = spec.partition('==')",
+        "detail": "venv.Scripts.jose-script",
+        "documentation": {}
+    }
+]
